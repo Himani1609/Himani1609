@@ -9,6 +9,6 @@
 ## [![image](arrangement-delicious-healthy-food.jpg)](himanibansal1691998@gmail.com)  
 
 
-[Linkedin](in/himani-bansal-8bb2532a4)
+[Linkedin](https://www.linkedin.com/in/himani-bansal-8bb2532a4/)
 
 
