@@ -1,4 +1,4 @@
-<img src="./himani.png" alt="This is my vibe. Welcome to my Github Account!" width="900" height="400">
+<img src="./himani.png" alt="This is my vibe. Welcome to my Github Account!" width="900" height="350">
 
 # Himani Bansal
 
