@@ -9,3 +9,5 @@ Bringing a strong foundation in mathematics and data analytics to web developmen
 ![./LinkedIn_icon.svg.png](https://www.linkedin.com/in/himani-bansal-8bb2532a4/)
 
 ![./Stack_Overflow_icon.svg.png](https://stackoverflow.com/users/27218588/himani-bansal)
+
+[![StackOverflow](./Stack_Overflow_icon.svg.png)](https://stackoverflow.com/users/27218588/himani-bansal)
