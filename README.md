@@ -10,6 +10,4 @@ Bringing a strong foundation in mathematics and data analytics to web developmen
 
 [<img src="./Stack_Overflow_icon.svg.png" alt="StackOverFlow" width="60" height="60">](https://stackoverflow.com/users/27218588/himani-bansal)
 
-Linkedin            |  StackOverflow
-:-------------------------:|:-------------------------:
 [<img src="./LinkedIn_icon.svg.png" alt="Linkedin" width="40" height="40">](https://www.linkedin.com/in/himani-bansal-8bb2532a4/) |  [<img src="./Stack_Overflow_icon.svg.png" alt="StackOverFlow" width="60" height="60">](https://stackoverflow.com/users/27218588/himani-bansal)![](https://...Ocean.png)
