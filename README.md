@@ -1,5 +1,5 @@
 ![Himani's photo](./himani.png)
-<img src="./himani.png" alt="This is my vibe. Welcome to my Github Account!" width="150" height="150">
+<img src="./himani.png" alt="This is my vibe. Welcome to my Github Account!" width="500" height="250">
 
 # Himani Bansal
 
