@@ -6,8 +6,7 @@
 
 Bringing a strong foundation in mathematics and data analytics to web development. Passionate about creating efficient, user-friendly solutions and making a positive impact through technology!
 
-![./LinkedIn_icon.svg.png](https://www.linkedin.com/in/himani-bansal-8bb2532a4/)
+[![Linkedin](./LinkedIn_icon.svg.png)](https://www.linkedin.com/in/himani-bansal-8bb2532a4/)
 
-![./Stack_Overflow_icon.svg.png](https://stackoverflow.com/users/27218588/himani-bansal)
+[<img src="./Stack_Overflow_icon.svg.png" alt="StackOverFlow" width="100" height="100">](https://stackoverflow.com/users/27218588/himani-bansal)
 
-[![StackOverflow](./Stack_Overflow_icon.svg.png)](https://stackoverflow.com/users/27218588/himani-bansal)
