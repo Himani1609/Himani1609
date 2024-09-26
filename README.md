@@ -2,8 +2,7 @@
 
 # Himani Bansal
 
-### 🌐 [Web Development Student] (https://humber.ca/north-campus.html) |📊 [Business Analytics Grad] (https://www.senecapolytechnic.ca/home.html) |🎓 [Master's in Mathematics](https://puchd.ac.in/) |
-### 🧑‍🏫 Math Instructor @[Mathnasium](https://www.mathnasium.com/ca/). 
+### 🌐Web Development Student @Humber |📊Business Analytics Grad |🎓Master's in Mathematics |🧑‍🏫Math Instructor @[Mathnasium](https://www.mathnasium.com/ca/). 
 
 Bringing a strong foundation in mathematics and data analytics to web development. Passionate about creating efficient, user-friendly solutions and making a positive impact through technology!
 
